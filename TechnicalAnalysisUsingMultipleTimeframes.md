@@ -289,8 +289,39 @@ Shannon's core principles are:
   (bearish) for instant trend recognition.  
 
 ### 11. Time  
+  
+The use of multiple timeframes is the core, unifying principle of the entire 
+book. Shannon's methodology revolves around analyzing and aligning different 
+timeframes to make trading decisions.  
+  
+He uses a hierarchical approach:  
+Higher Timeframes (e.g., Weekly, Daily): To determine the primary trend and 
+overall market structure (e.g., identifying if a stock is in Stage 2 Markup).  
+Lower Timeframes (e.g., 30-min, 15-min, 5-min): To find precise, low-risk entry 
+and exit points for trades that are in the direction of the higher timeframe 
+trend.  
+
+"Plan on the higher timeframe and manage on the lower timeframe."  
 
 ### 12. How & When to Buy  
+
+Brian Shannon does not advocate buying stocks in a downtrend. His method for 
+"How & When to Buy" is centered on participating in established uptrends.  
+  
+The core principles are:
+- **Wait for a Confirmed Uptrend**: Only look to buy when the stock is in 
+  **Stage 2 (Markup)**, confirmed by higher highs and higher lows on the daily 
+  chart.  
+- **Use the "5-Day Rule" for Entry**: The primary entry signal is on a lower 
+  timeframe (e.g., 30-minute chart). A trader waits for a pullback to end and 
+  then buys when the price moves **above a rising 5-day moving average**.  
+- **Buy Strength, Not Weakness**: The key is to **"buy strength after a dip,"** 
+  not to try and pick a bottom. This means waiting for the stock to show renewed 
+  bullish momentum by reclaiming the 5-DMA.  
+- **Align Timeframes**: The daily chart must show a healthy uptrend, and the 
+  intraday chart must show a pullback ending with a reclaim of the 5-DMA. This 
+  alignment of higher and lower timeframes provides a high-probability, 
+  low-risk entry.  
 
 ### 13. How & When to Sell Short  
 
