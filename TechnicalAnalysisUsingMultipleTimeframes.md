@@ -20,6 +20,8 @@
     - [13. How & When to Sell Short](#13-how--when-to-sell-short)
     - [14. News & Fundamentals](#14-news--fundamentals)
     - [15. Short Squeezes](#15-short-squeezes)
+      - [Short Interest](#short-interest)
+      - [Days to Cover (Short Interest Ratio)](#days-to-cover-short-interest-ratio)
     - [16. Risk Management / Exit Strategies](#16-risk-management--exit-strategies)
     - [17. Rules & Insight](#17-rules--insight)
     - [18. Putting It All Together](#18-putting-it-all-together)
@@ -332,6 +334,24 @@ establishing a risk/reward scenario, and executing the trade on a shorter timefr
 
 ### 14. News & Fundamentals  
 
+The core message is **"news follows trend."**  
+  
+Key points are:  
+- **Price is Primary**: The trend of a stock, as shown by its price action, is 
+  the most important factor. A stock in a strong uptrend (Stage 2) will often 
+  rally on any news, even negative news.  
+- **Fundamentals as a Bonus, Not a Trigger**: While bad fundamentals can be a 
+  "bonus" for a short sale in a stock already in a downtrend (Stage 4), they 
+  are not essential. A stock can decline sharply even with good fundamentals if 
+  the technical structure is bearish.  
+- **Avoid Trading on News Alone**: Trying to trade based solely on news events 
+  is dangerous. Traders should first establish the technical trend using 
+  multiple timeframes and then use news as a secondary confirmation, not the 
+  primary reason for a trade.  
+- **"Guilty Until Proven Innocent"**: This principle applies to short selling. 
+  A stock in a downtrend is presumed to keep falling until its price action 
+  proves otherwise, regardless of the news headlines.
+  
 ### 15. Short Squeezes  
 
 Explores the mechanics and psychology behind short squeezes. Shannon details two 
@@ -344,14 +364,59 @@ main types:
 This chapter also covers key metrics like **Short Interest** and **Days to Cover 
 (Short Interest Ratio)**.
 
+#### Short Interest  
+Short interest is the total number of shares of a stock that have been sold short 
+but have not yet been covered (bought back).  
+
+Key points:  
+- Source of Future Demand: Because short sellers must eventually buy back the 
+  shares to close their position, short interest represents a source of future
+  buying demand.
+- Context is Crucial: The significance of short interest depends on the stock's 
+  price trend. High short interest in a stock that is already declining may lead 
+  to a "knee-jerk" rally, but it's not necessarily a buy signal.
+- Linked to Short Squeezes: A high short interest, especially when combined with 
+  a low average daily trading volume (measured by the Short Interest Ratio or 
+  "days to cover"), increases the potential for a sharp, rapid price increase 
+  known as a "short squeeze" if the stock's price begins to rise and forces short 
+  sellers to cover their positions.  
+  
+#### Days to Cover (Short Interest Ratio)  
+  
+According to Brian Shannon, the Short Interest Ratio (SIR), also known as "Days 
+to Cover," is a crucial metric for assessing the potential for a short squeeze.
+  
+His definition and key points are:  
+- Calculation: It is calculated by dividing the total short interest (number of 
+  shares sold short) by the stock's average daily trading volume.  
+- Interpretation: The result represents the number of days it would theoretically 
+  take for all short sellers to buy back (cover) their positions, assuming the 
+  average daily trading volume remains constant.  
+- Significance: A higher ratio (e.g., above 5.0) indicates it would take more 
+  days to cover the short position, which can be a contrarian indicator.  It 
+  suggests that if the stock's price begins to rise, the forced buying from short 
+  sellers covering their positions could create significant upward momentum, 
+  potentially leading to a short squeeze.  
+  
 ### 16. Risk Management / Exit Strategies 
 
-Stresses that risk management is the most critical aspect of trading. The chapter 
-covers setting correct stop-loss placements, position sizing, and developing a 
-comprehensive risk/reward plan before entering any trade. The mantra is to plan 
-on the longer timeframe and manage risk on the shorter one.  
+"Risk management is job #1." The chapter covers setting correct stop-loss 
+placements, position sizing, and developing a comprehensive risk/reward plan 
+before entering any trade. The mantra is to plan on the longer timeframe and 
+manage risk on the shorter one.  
 
 ### 17. Rules & Insight  
+  
+Distills the entire methodology into actionable trading rules and mental truisms.  
+  
+Key takeaways from the chapter include:  
+- The Cardinal Rule: Only buy when the price is above a rising 5-day moving 
+  average, and only sell short when it's below a declining 5-day moving average.
+- Plan and Manage: "Plan on the longer timeframe, execute and manage risk on the 
+  shorter timeframe."
+- Risk Management Priority: "Risk management is job #1." This includes setting correct stop-losses, proper position sizing, and having a clear risk/reward scenario before entering any trade.
+- Anticipate, Don't React: The goal is to anticipate market moves based on structure and price action, not to react emotionally to news or price spikes.
+- Daily Routine: The chapter provides a step-by-step guide for a trader's daily preparation, from pre-market analysis to post-market review.  
 
 ### 18. Putting It All Together  
 
