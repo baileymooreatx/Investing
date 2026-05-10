@@ -1,3 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Technical Analysis Using Multiple Timeframes](#technical-analysis-using-multiple-timeframes)
+  - [Description](#description)
+  - [Reconstructed Chapter Outline](#reconstructed-chapter-outline)
+    - [1. Technical Analysis](#1-technical-analysis)
+    - [2. The Four Stages](#2-the-four-stages)
+    - [3. Stage 1 - Accumulation](#3-stage-1---accumulation)
+    - [4. Stage 2 - Markup](#4-stage-2---markup)
+    - [5. Stage 3 - Distribution](#5-stage-3---distribution)
+    - [6. Stage 4 - Decline](#6-stage-4---decline)
+    - [7. Support and Resistance](#7-support-and-resistance)
+    - [8. Trends](#8-trends)
+    - [9. Volume](#9-volume)
+    - [10. Moving Averages](#10-moving-averages)
+    - [11. Time](#11-time)
+    - [12. How & When to Buy](#12-how--when-to-buy)
+    - [13. How & When to Sell Short](#13-how--when-to-sell-short)
+    - [14. News & Fundamentals](#14-news--fundamentals)
+    - [15. Short Squeezes](#15-short-squeezes)
+    - [16. Risk Management / Exit Strategies](#16-risk-management--exit-strategies)
+    - [17. Rules & Insight](#17-rules--insight)
+    - [18. Putting It All Together](#18-putting-it-all-together)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [Technical Analysis Using Multiple Timeframes](https://www.amazon.com/Technical-Analysis-Using-Multiple-Timeframes/dp/B007NXQHWW/)  
 by Brian Shannon
   
