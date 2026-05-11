@@ -428,7 +428,20 @@ His definition and key points are:
 placements, position sizing, and developing a comprehensive risk/reward plan 
 before entering any trade. The mantra is to plan on the longer timeframe and 
 manage risk on the shorter one.  
-
+  
+**Let the market structure define the stop, not the desired position size.**
+  
+- **Place Stops at Structural Breaks**: The stop should be placed at the point 
+  where the trade setup is invalidated (e.g., just below the most recent higher 
+  low in an uptrend, or just above the most recent lower high in a downtrend).  
+- **Risk Management is Job #1**: The stop defines the risk per share, which 
+  then determines the correct position size for a given account.  
+- **Manage Risk on the Shorter Timeframe**: While the trade is planned on a 
+  higher timeframe, the stop is managed on the lower timeframe used for entry.
+- **Adjust Stops Dynamically**: For short trades, he advises lowering the stop 
+  to just above the most recent lower high as the price declines to lock in 
+  profits and manage risk.
+  
 ### 17. Rules & Insight  
   
 Distills the entire methodology into actionable trading rules and mental truisms.  
