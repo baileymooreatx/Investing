@@ -202,22 +202,22 @@ participants.
 He defines support and resistance using volume profiles primarily through the 
 **Anchored Volume Weighted Average Price (AVWAP)**.
 
-His key concepts are:
+Key concepts:
 - **AVWAP as Dynamic Support/Resistance**: Unlike static horizontal levels, 
   AVWAP creates dynamic support and resistance zones based on the **average 
   price paid by traders since a specific, significant event** (the "anchor 
   point").  
-- **Anchor Points**: These are critical market events like swing highs/lows, 
-  earnings reports, gaps, or major news, which represent shifts in market 
-  psychology and establish a new average cost basis.  
-- **"Price Has Memory"**: The anchor point becomes a psychological reference. 
-  If price is above the AVWAP, buyers are "in the green" and it acts as support. 
-  If price is below, sellers are "in control" and it acts as resistance.  
-- **Sentiment Gauge**: The position of price relative to the AVWAP and the 
-  slope of the AVWAP line objectively shows whether buyers or sellers are 
-  dominant since the anchor event.  
+- **Anchor Points**: These are critical market events like swing highs/lows,
+  earnings reports, gaps, or major news, which represent shifts in market
+  psychology and establish a new average cost basis.
+- **"Price Has Memory"**: The anchor point becomes a psychological reference.
+  If price is above the AVWAP, buyers are "in the green" and it acts as support.
+  If price is below, sellers are "in control" and it acts as resistance.
+- **Sentiment Gauge**: The position of price relative to the AVWAP and the
+  slope of the AVWAP line objectively shows whether buyers or sellers are
+  dominant since the anchor event.
 
-His key principles include:  
+Key principles:  
 - **"Support broken, tends to act as resistance" (and vice versa)**: When a 
   support level is breached, traders who bought at that price become "trapped 
   longs" and are eager to sell to get back to "break even," creating new 
